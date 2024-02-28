@@ -2,7 +2,8 @@
     propriedade: valor;
 }  */
 
-body{
-    text-align: center;
-    color: coral;
+html {
+    text-align: 25px;
+    color: rgb(211, 13, 13);
+    background-color: rgb(31, 27, 27);
 }
