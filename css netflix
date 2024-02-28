@@ -1,0 +1,8 @@
+/*selector {
+    propriedade: valor;
+}  */
+
+body{
+    text-align: center;
+    color: coral;
+}
