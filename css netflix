@@ -4,6 +4,6 @@
 
 html {
     text-align: 25px;
-    color: rgb(211, 13, 13);
+    color: rgb(167, 167, 167);
     background-color: rgb(31, 27, 27);
 }
