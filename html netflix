@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>css</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        h1{
+            color: chocolate;
+            font-size: 25px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="cabeçalho">
+        <h1>NETFLIX</h1>
+    </div> 
+
+    <div id="conteudo">
+        <img src="net.webp" width="200" height="200">
+        <h2>A Netflix é um serviço de streaming que oferece uma ampla variedade de séries, filmes e documentários premiados em milhares de aparelhos conectados à internet.
+
+            Você pode assistir a quantos filmes e séries quiser, quando e onde quiser – tudo por um preço mensal acessível. Aqui você sempre encontra novidades. A cada semana, adicionamos novas séries e filmes.</h2>
+    </div>
+
+    <div id="rodape">
+        <h4>Dúvidas? Ligue 0800 591 2876</h4>
+    </div>
+</body>
+</html>
